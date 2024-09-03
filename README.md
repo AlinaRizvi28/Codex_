@@ -10,17 +10,21 @@ Action: (1)Utilized SQL to efficiently query and analyze survey data from 10,000
 ## PowerBI Dashboards
 
 ### 1
-![Screenshot (114)](https://github.com/user-attachments/assets/dee7a95e-7d91-416b-974e-1b8d32f7ef0b)
+![image](https://github.com/user-attachments/assets/6c426c8f-df77-4ece-b15f-3de5f94f1983)
+
 
 
 ### 2
-![Screenshot (115)](https://github.com/user-attachments/assets/94382226-fc1d-4c9e-8a8e-371e146ec473)
+![Screenshot (115)](https://github.com/user-attachments/assets/256393e9-beb7-4831-b258-402be7fc9308)
+
 
 
 ### 3
-![Screenshot (120)](https://github.com/user-attachments/assets/6af83d91-1960-430b-9eec-937303018635)
+![Screenshot (120)](https://github.com/user-attachments/assets/0aeeeec1-724c-4ebf-bfbb-4d981f230ac8)
+
 
 
 ### 4
-![Screenshot (118)](https://github.com/user-attachments/assets/9619dff7-3afb-47e9-93cb-bd701030e6c9)
+![Screenshot (118)](https://github.com/user-attachments/assets/61bc860e-3dc3-43db-8488-76005a7457bf)
+
 
